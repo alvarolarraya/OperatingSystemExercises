@@ -1,0 +1,5 @@
+1 ./programa1
+2 ./programa1
+2 ./programa2
+2 ./programa1
+1 ./programa1
